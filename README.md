@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kukiooo. I'm a Data engineering student.
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning data analytics with Python.
 - 📫 How to reach me kukiooo2001@gmail.com
 
 <!---
