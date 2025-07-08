@@ -18,7 +18,8 @@
 ---
 
 - 👨‍💻 I'm a Machine Learning Engineer, with special interest in Sports Analysis.
-- 💬 I'm interested in Graph Recurrent Neural Networks, Mutimodal Models, Anomaly Detection and more.
+- 💬 Ask me about Graph Recurrent Neural Networks, Mutimodal Models, Anomaly Detection and more.
+- 💻 Using Machine Learning models in sports, financial and medical applications.
 
 ## 🛠 &nbsp;Tech Stack
 
