@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%Learnin%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learnin%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 ---
 
-- 👨‍💻 As a Machine Learning, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me Machine Learning in Sports Analysis
+- 👨‍💻 I'm a Machine Learning Engineer, with special interest in Sports Analysis.
+- 💬 I'm interested in Graph Recurrent Neural Networks, Mutimodal Models, Anomaly Detection and more.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -53,15 +53,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## 📊 Profile Statistics
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=Kukiooo&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
  
  ### 💳 Github Profile Summary Card
  
