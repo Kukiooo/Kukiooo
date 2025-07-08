@@ -20,7 +20,7 @@
 - 👨‍💻 I'm a Machine Learning Engineer, with special interest in Sports Analysis.
 - 💬 Ask me about Graph Recurrent Neural Networks, Mutimodal Models, Anomaly Detection and more.
 - 💻 Using Machine Learning models in sports, financial and medical applications.
-- ⭐ Check out our thyroID project <a href="https://linktr.ee/thyroidpwr"></a>
+- ⭐ Check out our ([thyroID project.](https://linktr.ee/thyroidpwr)
 
 ## 🛠 &nbsp;Tech Stack
 
